@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">splitit</string>
+    <string name="app_name">SolitIt</string>
+    <string name="camera_preview">Camera Preview</string>
+    <string name="capture">Capture</string>
 </resources>
